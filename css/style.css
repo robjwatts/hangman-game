@@ -1,0 +1,13 @@
+.background {
+	background: black;
+	
+}
+
+.panel-heading,
+.panel-body {
+	background: #737373;
+}
+
+h1 {
+	color: black;
+}
